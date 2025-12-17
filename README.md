@@ -73,4 +73,3 @@ If you use this code or framework, please cite:
 
 This repository is released for academic and non-commercial use.  
 Please contact the author for reuse beyond these terms.
-<img width="936" height="1290" alt="image" src="https://github.com/user-attachments/assets/2d979371-5809-4054-beaa-2cc6d2a6ed0d" />
